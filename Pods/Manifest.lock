@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (1.9.3)
+  - NCMB (2.3.3)
+
+DEPENDENCIES:
+  - Kingfisher (~> 1.8)
+  - NCMB (from `https://github.com/NIFTYCloud-mbaas/ncmb_ios.git`)
+
+EXTERNAL SOURCES:
+  NCMB:
+    :git: https://github.com/NIFTYCloud-mbaas/ncmb_ios.git
+
+CHECKOUT OPTIONS:
+  NCMB:
+    :commit: cc06a5deb3636533dd7560087beac180c2d62012
+    :git: https://github.com/NIFTYCloud-mbaas/ncmb_ios.git
+
+SPEC CHECKSUMS:
+  Kingfisher: 9e37d2a78a082dc123bfe8a16de65de85518daae
+  NCMB: 33829337aeb2e91a0fc1c771eeb77b642f7f6589
+
+PODFILE CHECKSUM: 3cfa107339550c9cb64c183165c403d2c4ba565d
+
+COCOAPODS: 1.0.1
